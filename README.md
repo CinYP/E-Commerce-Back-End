@@ -1,1 +1,21 @@
-# E-Commerce-Back-End
+## E-Commerce-Back-End
+
+# User Story 
+AS A manager at an internet retail company
+I WANT a back end for my e-commerce website that uses the latest technologies
+SO THAT my company can compete with other e-commerce companies. 
+
+# Instillation 
+
+npm install mysql2
+npm install sequalize 
+npm install dotenv
+
+# Usage
+
+log in to mySQL using commant "mysql -u root -p" 
+To seed file: 
+- Enter into command line "source db/schema.sql"
+- Enter into command line "souce db/seeds.sql:
+
+To exit mysql enter "quit" into command line. 
