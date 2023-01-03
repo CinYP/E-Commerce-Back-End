@@ -20,7 +20,6 @@ npm install dotenv
 log in to mySQL using commant "mysql -u root -p" 
 To seed file: 
 - Enter into command line "source db/schema.sql"
-- Enter into command line "souce db/seeds.sql:
 
 To exit mysql enter "quit" into command line. 
 
