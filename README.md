@@ -1,5 +1,9 @@
 ## E-Commerce-Back-End
 
+## Title 
+Object Oriented Mapping (ORM): E-commerce Back End 
+
+
 # User Story 
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
@@ -19,3 +23,20 @@ To seed file:
 - Enter into command line "souce db/seeds.sql:
 
 To exit mysql enter "quit" into command line. 
+
+# Walk-Though-Video
+
+Please see the following link for video walk through: 
+<Link>
+
+# Testing 
+
+N/A 
+
+# License
+
+N/A 
+
+# For More Information 
+Please contact CinYP or email cinthiapruitt@gmail.com
+
