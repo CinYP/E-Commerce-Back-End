@@ -41,12 +41,14 @@ To exit mysql enter "quit" into command line.
                         https://localhost:3001/api/products/5
  *replace 5 with the id of the category you would like to select
 3c. POST: https://localhost:3001/api/catagoties
-    - Select language of JSON 
+    *Select language of JSON 
+
     post the following message: 
     {
         "category_name": "Test Category"
     }
     POST: https://localhost:3001/api/products/
+
     {
         "product_name": "New Product Test", 
         "price": 200.00,
@@ -54,12 +56,14 @@ To exit mysql enter "quit" into command line.
         tagIds: [1,2,3,4]
     }
     POST: https://localhost:3001/api/tags/
+
     {
         "tag_name":"new color"
     }
 3d. PUT: https://localhost:3001/api/catagoties/6
+        https://localhost:3001/api/products/6
+        https://localhost:3001/api/tags/6
     *replace 6 with an id
-    PUT: https://localhost:3001/api/products/4
 
 
 # Walk-Though-Video
